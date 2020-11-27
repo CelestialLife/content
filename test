@@ -1,5 +1,6 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "This is the test"
+  "title": "Harry Potter and the Sorcerer's Stone"
+  "genre": "Fantasy"
+  "author": "J K Rowling"
+  "summary": "Harry goes to Wizarding School"
 }
